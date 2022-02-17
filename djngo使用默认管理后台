@@ -1,0 +1,8 @@
+1、生成迁移文件命令：
+python3 manage.py makemigrations
+
+2、执行迁移文件生成表命令：
+python3 manage.py  migrate
+
+3、生成超级用户
+python3 manage.py createsuperuser
