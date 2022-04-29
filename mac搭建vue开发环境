@@ -1,0 +1,15 @@
+安装Homebrew：
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+
+官网下载nodejs包：
+https://nodejs.org/en/
+终端输入node -v和npm -v查看是否安装成功
+
+安装cnpm：
+sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
+
+sudo cnpm install webpack -g
+
+sudo npm install vue-cli -g
+
+
